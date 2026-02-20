@@ -24,7 +24,7 @@ A pixel-perfect recreation of the [Mintlify](https://mintlify.com) homepage buil
 
 | Font | Usage |
 |---|---|
-| **Inter** | Primary font for all text (via Google Fonts) |
+| **"Inter", sans-serif** | Primary font for all text (via Google Fonts) |
 
 ---
 
@@ -52,36 +52,9 @@ A pixel-perfect recreation of the [Mintlify](https://mintlify.com) homepage buil
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your project here)*
+> *<img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/920dcd6a-612c-49f2-81d8-021b3578ceaa" />
+*
 
 ---
 
-## 🌐 Live Demo
 
-[👉 View Live Website](https://YOUR_USERNAME.github.io/mintlify-clone)
-
----
-
-## 👤 Author
-
-**Your Name**  
-[GitHub Profile](https://github.com/YOUR_USERNAME)
-```
-
-Then click **"Commit changes"** → **"Commit directly to the main branch"** → **Commit changes**
-
----
-
-## ✅ Step 5: Host the Website for FREE using GitHub Pages
-
-This is the easiest way to get a live link!
-
-1. In your repo, click the **"Settings"** tab (top menu)
-2. In the left sidebar, click **"Pages"**
-3. Under **"Source"**, select **"Deploy from a branch"**
-4. Under **"Branch"**, select **`main`** and folder **`/ (root)`**
-5. Click **"Save"**
-6. Wait 1–2 minutes, then refresh the page
-7. You'll see a green box with your live URL:
-```
-   ✅ Your site is published at: https://YOUR_USERNAME.github.io/mintlify-clone
